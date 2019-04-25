@@ -12,5 +12,6 @@ dependencies:
   - netcdf4
   - xarray
   - ipywidgets
+  - dask
   - rise
 
