@@ -8,6 +8,7 @@ dependencies:
   - matplotlib>=2.0
   - pandas>=0.22
   - scipy>=1.0
+  - statsmodels
   - enlopy
   - netcdf4
   - xarray
