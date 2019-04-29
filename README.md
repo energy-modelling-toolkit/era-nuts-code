@@ -13,12 +13,12 @@ The data in NetCDF and CSV formats can be downloaded from the [Zenodo repository
 In the folder `notebooks` there are two Jupyter notebooks which shows how to deal effectively with the NetCDF data in `xarray` and how to visualise them in several ways by using matplotlib or the [enlopy](https://github.com/kavvkon/enlopy) package. 
 
 There are currently two notebooks: 
-  - `exploring-ERA-NUTS`: it shows how to open the NetCDF files (with Dask), how to manipulate and visualise them. 
-  - `ERA-NUTS-explore-with-widget`: explore interactively the datasets with [jupyter](https://jupyter.org/) and [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/). (You need download the notebook locally)
+  - `exploring-ERA-NUTS`: it shows how to open the NetCDF files (with Dask), how to manipulate and visualise them. A rendered version is also available as html
+  - `ERA-NUTS-explore-with-widget`: explore interactively the datasets with [jupyter](https://jupyter.org/) and [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/). (You need to download the notebook locally)
 
-The notebook `exploring-ERA-NUTS` is also available rendered as HTML. 
-
-# Additional files
+Both notebooks can be edited and run online (including widgets) by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/energy-modelling-toolkit/era-nuts-code/master?filepath=notebooks).
+ 
+ # Additional files
 
 In the folder `additional files` there is a map showing the spatial resolution of the ERA5 reanalysis and a CSV file specifying the number of grid points with respect to each NUTS0/1/2 region.
 
