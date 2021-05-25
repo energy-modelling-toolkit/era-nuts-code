@@ -1,4 +1,4 @@
 #!/bin/bash
 
-wget -q -O era-nuts-t2m-nuts2-hourly.nc  https://zenodo.org/record/2650191/files/era-nuts-t2m-nuts2-hourly.nc?download=1
-wget -q -O era-nuts-ws10-nuts2-hourly.nc https://zenodo.org/record/2650191/files/era-nuts-ws10-nuts2-hourly.nc?download=1
+wget -q -O era-nuts-t2m-nuts2-hourly.nc  https://zenodo.org/record/4584576/files/era-nuts-t2m-nuts2-hourly.nc?download=1
+wget -q -O era-nuts-ws10-nuts2-hourly.nc https://zenodo.org/record/4584576/files/era-nuts-ws10-nuts2-hourly.nc?download=1
